@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F2E505D6-7D9D-A9FA-A89C-3935B1D489D0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Skeleton.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BVHFile.cs" Line="42" Column="9" />
+      <File FileName="Assets/Scripts/Skeleton.cs" Line="19" Column="51" />
+      <File FileName="Assets/Scripts/Constants.cs" Line="66" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="work_execise" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Rigs" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Skeleton.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9ada11f-3e68-4864-8bb0-30f2cc90b02a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="61ad3ce4-e921-4a45-a98a-9c6b9bfe7046" />
+</Properties>

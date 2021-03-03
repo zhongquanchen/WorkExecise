@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{67763E90-C55A-67FF-2000-07B1F6426C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F2E505D6-7D9D-A9FA-A89C-3935B1D489D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer", "Sirenix.OdinInspector.CompatibilityLayer.csproj", "{9D474164-7C8B-5BF5-7CDE-49D7E85A38A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{DF5ADF78-E039-5B14-FFE2-F01CC9ADA324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer.Editor", "Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj", "{1A2B9CEE-3BA3-F69A-7D7D-AD655FE25A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67763E90-C55A-67FF-2000-07B1F6426C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67763E90-C55A-67FF-2000-07B1F6426C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67763E90-C55A-67FF-2000-07B1F6426C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67763E90-C55A-67FF-2000-07B1F6426C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E505D6-7D9D-A9FA-A89C-3935B1D489D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E505D6-7D9D-A9FA-A89C-3935B1D489D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E505D6-7D9D-A9FA-A89C-3935B1D489D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E505D6-7D9D-A9FA-A89C-3935B1D489D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D474164-7C8B-5BF5-7CDE-49D7E85A38A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D474164-7C8B-5BF5-7CDE-49D7E85A38A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D474164-7C8B-5BF5-7CDE-49D7E85A38A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D474164-7C8B-5BF5-7CDE-49D7E85A38A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5ADF78-E039-5B14-FFE2-F01CC9ADA324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5ADF78-E039-5B14-FFE2-F01CC9ADA324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5ADF78-E039-5B14-FFE2-F01CC9ADA324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5ADF78-E039-5B14-FFE2-F01CC9ADA324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2B9CEE-3BA3-F69A-7D7D-AD655FE25A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2B9CEE-3BA3-F69A-7D7D-AD655FE25A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2B9CEE-3BA3-F69A-7D7D-AD655FE25A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2B9CEE-3BA3-F69A-7D7D-AD655FE25A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
